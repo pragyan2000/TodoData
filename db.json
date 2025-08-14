@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "9d6172b7-0ff4-464d-a18f-4ba3d8eca43b",
+      "name": "gio",
+      "email": "gio@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "90645113-90bf-48fb-9322-dda5cb9c52e9",
+      "name": "new",
+      "email": "new@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "todos": [
+    {
+      "id": "a0a3c7e4-4739-492c-a653-ac50e310a634",
+      "userId": "90645113-90bf-48fb-9322-dda5cb9c52e9",
+      "task": "ad,mnadmnad",
+      "completed": false,
+      "createdAt": "2025-06-10T18:40:52.157Z"
+    }
+  ]
+}
